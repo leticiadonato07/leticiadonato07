@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Letícia Donato! 👩🏻‍💻
+# Olá, eu sou a Leticia Donato! 👩🏻‍💻
 
 ### Estudante de Ciência da Computação | Inteligência Artificial & Machine Learning
 
