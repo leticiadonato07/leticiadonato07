@@ -18,8 +18,6 @@
 
 💻 Estou desenvolvendo minhas habilidades em programação, análise de dados e desenvolvimento de software.
 
-🔬 Atualmente, trabalho no **NeuroMind AI**, um projeto experimental voltado à visualização e ao estudo de sinais EEG com aplicações de inteligência artificial.
-
 🚀 Meu objetivo é crescer profissionalmente na área de tecnologia, participando de projetos que conectem pesquisa, inovação e desenvolvimento.
 
 ---
@@ -37,33 +35,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-### 🚀 Projetos em destaque
-
-#### 🧠 NeuroMind AI
-
-Projeto experimental de pesquisa e desenvolvimento voltado à visualização de sinais EEG e à investigação de aplicações de inteligência artificial.
-
-**Funcionalidades em desenvolvimento:**
-- Dashboard interativo.
-- Visualização tridimensional.
-- Simulação de sinais EEG.
-- Leitura e visualização de dados em CSV.
-- Estudos futuros envolvendo processamento de sinais e redes neurais.
-
-🔗 [Conhecer o projeto](https://github.com/leticiadonato07/NeuroMind-AI)
-
----
-
-### 📚 Atualmente estudando
-
-- Inteligência Artificial e Machine Learning.
-- Redes Neurais Artificiais.
-- Processamento e análise de dados.
-- Desenvolvimento de aplicações.
-- Fundamentos de processamento de sinais EEG.
 
 ---
 
